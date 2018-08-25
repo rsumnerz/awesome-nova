@@ -33,7 +33,9 @@
 
 * [Nova Packages](https://novapackages.com). Discover new packages. Build amazing things.
 
-### Tools
+### Customization
+
+#### Tools
 
 * [Skeleton](https://github.com/spatie/skeleton-nova-tool). A skeleton repository for Spatie's Nova Packages.
 
