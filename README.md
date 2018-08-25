@@ -33,9 +33,7 @@
 
 * [Nova Packages](https://novapackages.com). Discover new packages. Build amazing things.
 
-### Customization
-
-#### Tools
+### Tools
 
 * [Skeleton](https://github.com/spatie/skeleton-nova-tool). A skeleton repository for Spatie's Nova Packages.
 
@@ -46,8 +44,6 @@
 * [Tail](https://github.com/spatie/nova-tail-tool). A Laravel Nova tool to display the application log.
 
 * [Cashier Manager](https://github.com/themsaid/nova-cashier-manager). Managing Stripe subscriptions inside the incredible Laravel Nova admin panel.
-
-* [Logs](https://github.com/KABBOUCHI/nova-logs-tool). A Laravel Nova tool to manage and keep track of each one of your logs files.
 
 ### Cards
 
@@ -60,9 +56,3 @@
 * [Cache](https://github.com/dannyvink/nova-cache-card). Manage your application's cache from a handy Laravel Nova dashboard card.
 
 * [Nova Algolia Card](https://github.com/nicolasbeauvais/nova-algolia-card). Get some insight on your Algolia indexing with this easy to use Nova card.
-
-* [Nova Cloudflare Card](https://github.com/zOxta/nova-cloudflare-card). Purge your CloudFlare's cache in two clicks from a Laravel Nova dashboard card.
-
-### Fields
-
-* [Nova Trumbowyg](https://github.com/Johnathan/nova-trumbowyg/). Nova field that provides a Trumbowyg WYSIWYG editor.
